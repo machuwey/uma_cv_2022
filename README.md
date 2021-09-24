@@ -1,4 +1,5 @@
-# uma_cv_2022
+![UMA CV 2022](https://github.com/jotaraul/uma_cv_2022/blob/main/utils/logo_uma_cv_2022.png "UMA CV 2022 logo")
+
 Working repository for the Computer Vision subject at the University of Málaga (2021-2022 edition)
 
 You can create a docker with an image of this repo here: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/uma_cv_2022/master)
